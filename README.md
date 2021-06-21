@@ -11,6 +11,9 @@ Its functions:
 # Install In Termux:
 
 pkg install git
+
 git clone https://github.com/edwarderlick/HUNNER.git
+
 cd Hunner
+
 python2 Hunner.py
