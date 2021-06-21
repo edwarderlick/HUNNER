@@ -16,4 +16,4 @@ git clone https://github.com/edwarderlick/HUNNER.git
 
 cd Hunner
 
-python2 Hunner.py
+python hunner.py
